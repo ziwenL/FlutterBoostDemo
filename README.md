@@ -6,7 +6,7 @@
 
 　　闲鱼 [FlutterBoost](https://github.com/alibaba/flutter_boost) 集成与基本使用示例 ( Android 端和 Flutter 端 )
   
-**主要展示如下几点**
+**本 Demo 主要展示如下几点**
 - FlutterBoost 的初始化
 - 基于 FlutterBoost 实现 Native 启动 Flutter 页面，携带请求参数并接收返回结果
 - 基于 FlutterBoost 实现 Flutter 启动 Native 页面，携带请求参数并接收返回结果
